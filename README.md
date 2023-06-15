@@ -46,7 +46,7 @@
   <summary> <h3>📜 My Certificates</h3></summary>
   <div align="center">
   <br/>
-  <a href="https://www.freecodecamp.org/certification/saurav-tiwari/data-visualization" rel="noopener noreferrer"><img width="50%" height="80" src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat-square" alt="D3.js Badge"></a>
+  <a href="https://www.freecodecamp.org/certification/saurav-tiwari/data-visualization" rel="noopener noreferrer"><img width="30%" height="80" src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat-square" alt="D3.js Badge"></a>
   </div>
 </details>
 <br/>
