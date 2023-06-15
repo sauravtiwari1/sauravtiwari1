@@ -6,6 +6,8 @@
 
 👋 Hi there! I'm a frontend developer with a passion for becoming a full stack developer. 💻 I'm on a mission to create platforms that empower individuals by providing them with valuable information to enhance their lives 🚀. I am constantly learning something new and expanding my skill set. 🔍 Sharing knowledge is something I truly enjoy, as I believe collaboration and education are key to personal and professional growth. 🌱 I love exploring new places 🌍, capturing moments through photography 📷, and penning down my thoughts on my blog ✍️.
 
+---
+
 ## :hammer_and_wrench: My Stacks
 <div align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
