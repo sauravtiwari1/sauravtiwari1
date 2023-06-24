@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
+<!-- OTHER BADGES -->
+
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <img width="120" height="28" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <!--  OTHER BADGES-->
@@ -32,12 +34,10 @@
 ## 📊 My Stats
 
 <br/>
-<p align="left">
-  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurav-png&show_icons=true&theme=gruvbox" />
-    <img width="468"src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-png&theme=gruvbox" />
-  </a>
-</p>
+
+| <a href="https://github.com/saurav-png?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-png&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-png&theme=radical" /></a> |
+| ------------- | ------------- |
+<br>
 
 #
 
