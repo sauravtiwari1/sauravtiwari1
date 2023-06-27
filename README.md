@@ -39,6 +39,10 @@
 | ------------- | ------------- |
 <br>
 
+<div align="center">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-png&layout=compact&theme=radical"> 
+</div>
+
 #
 
 <details>
