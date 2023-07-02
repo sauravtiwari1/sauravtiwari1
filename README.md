@@ -54,7 +54,6 @@
   <a href="https://www.freecodecamp.org/certification/saurav-tiwari/data-visualization" rel="noopener noreferrer"><img width="35%" src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat" alt="D3.js Badge"></a>
   </div>
 </details>
-<br/>
 
 ---
 <br/>
