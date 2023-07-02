@@ -48,7 +48,9 @@
 <details>
   <summary> <h3>📜 My Certificates</h3></summary>
   <div align="center">
-  <a href="https://www.freecodecamp.org/certification/saurav-tiwari/data-visualization" rel="noopener noreferrer"><img width="30%" height="80" src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat-square" alt="D3.js Badge"></a>
+  <a href="https://www.freecodecamp.org/certification/saurav-tiwari/responsive-web-design" rel="noopener noreferrer"><img width="35%" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="Responsive Web Design Badge"></a>
+  <br>
+  <a href="https://www.freecodecamp.org/certification/saurav-tiwari/data-visualization" rel="noopener noreferrer"><img width="35%" src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat" alt="D3.js Badge"></a>
   </div>
 </details>
 <br/>
@@ -62,7 +64,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/saurav.gif" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/Instagram-E4355F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge">
   </a>
   <a href="https://www.facebook.com/saurav.img/" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
