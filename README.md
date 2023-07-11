@@ -35,12 +35,11 @@
 
 <br/>
 
-| <a href="https://github.com/saurav-png?tab=repositories"><img align="center" src="https://github-readme-stats-saurav-png.vercel.app/api?username=saurav-png&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-png&theme=radical" /></a> |
+| <a href="https://github.com/saurav-png?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-png&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-png&theme=radical" /></a> |
 | ------------- | ------------- |
 <br>
-
 <div align="center">
-<img align="center" width="50%" src="https://github-readme-stats-saurav-png.vercel.app/api/top-langs/?username=saurav-png&layout=compact&theme=radical"> 
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-png&layout=compact&theme=radical"> 
 </div>
 
 #
