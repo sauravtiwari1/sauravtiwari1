@@ -38,7 +38,7 @@
 | <a href="https://github.com/saurav-png?tab=repositories"><img align="center" src="https://github-readme-stats-saurav-png.vercel.app/api?username=saurav-png&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats-saurav-png.vercel.app/api/top-langs/?username=saurav-png&layout=compact&theme=radical" /></a> |
 | ------------- | ------------- |
 
-![Snake animation](https://github.com/{{saurav-png}}/{{saurav-png}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/saurav-png/saurav-png/blob/output/github-contribution-grid-snake.svg)
 
 #
 
