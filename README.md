@@ -57,16 +57,13 @@
 
 ## :link: My Social Media Links
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/saurav-md/" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sauravtiwari2005/" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/saurav.gif" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4355F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge">
   </a>
-  <a href="https://www.facebook.com/saurav.img/" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="mailto:sauravtiwari9011@gmail.com" rel="noopener noreferrer">
+  <a href="mailto:sauravtiwarigm@gmail.com" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge">
   </a>
 </div>
