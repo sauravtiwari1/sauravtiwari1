@@ -35,7 +35,7 @@
 
 <br/>
 
-| <a href="https://github.com/sauravtiwari1?tab=repositories"><img align="center" src="https://github-readme-stats-sauravtiwari1.vercel.app/api?username=sauravtiwari1&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats-sauravtiwari1.vercel.app/api/top-langs/?username=saurav&layout=compact&theme=radical" /></a> |
+| <a href="https://github.com/sauravtiwari1?tab=repositories"><img align="center" src="sauravtiwari1-fr9gio8lx-sauravtiwari1s-projects.vercel.app/api?username=sauravtiwari1&show_icons=true&theme=radical" /> | <img align="center" src="sauravtiwari1-fr9gio8lx-sauravtiwari1s-projects.vercel.app/api/top-langs/?username=saurav&layout=compact&theme=radical" /></a> |
 | ------------- | ------------- |
 
 ![Snake animation](https://github.com/sauravtiwari1/sauravtiwari1/blob/output/github-contribution-grid-snake.svg)
